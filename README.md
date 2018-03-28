@@ -2,7 +2,7 @@
 Browser-Sync
 
 
-1) After start gulp, need copy on terminal snippet (snippet unique for your server settings)
+<p>1) After start gulp, need copy on terminal snippet (snippet unique for your server settings)</p>
 
 <code>
 <script id="__bs_script__">//<![CDATA[
@@ -11,6 +11,4 @@ Browser-Sync
 </code>    
 
 
-2) Copy to file footer.twig  on your theme  "../catalog/view/theme/{{ theme name }}/template/common/footer.twig " before body close tag </body>
-
- 
+<p>2) Copy to file footer.twig  on your theme  "../catalog/view/theme/{{ theme name }}/template/common/footer.twig " before body close tag in HTML</p>
