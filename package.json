@@ -14,7 +14,7 @@
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-clean-css": "^3.9.3",
-    "gulp-sass": "^3.2.1",
+    "gulp-sass": "^4.0.1",
     "gulp-util": "^3.0.8",
     "node-bourbon": "^4.2.8",
     "vinyl-ftp": "^0.6.1"
